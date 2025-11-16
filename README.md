@@ -74,10 +74,15 @@ npm run build
 The project follows a scalable, component-based architecture.
 
 src/
+
 ├── assets/            # Static images and global assets
+
 ├── App.jsx            # Main application logic (State, Layout, Routing)
+
 ├── main.jsx           # React entry point
+
 ├── index.css          # Global styles, Tailwind directives, Scrollbar styling
+
 └── README.md          # Project documentation
 
 ## 📝 Assignment Requirements Checklist
