@@ -52,8 +52,10 @@ Follow these commands to run the project on your local machine.
 1. **Clone the repository**
    
 ```bash
-1. git clone
-[https://github.com/YOUR_USERNAME/notely-notes-app.git](https://github.com/YOUR_USERNAME/notely-notes-app.git)
+
+1. **git clone**
+[https://github.com/ankita34359/notely-modern-notes-app.git](https://github.com/ankita34359/notely-modern-notes-app.git)
+
 cd notely-notes-app
 
 2. **Install dependencies**
