@@ -69,6 +69,8 @@ npm run dev
 npm run build
 ```
 
+---
+
 ## 📂 Folder Structure
 
 The project follows a scalable, component-based architecture.
@@ -84,6 +86,8 @@ src/
 ├── index.css          # Global styles, Tailwind directives, Scrollbar styling
 
 └── README.md          # Project documentation
+
+---
 
 ## 📝 Assignment Requirements Checklist
 
@@ -101,6 +105,8 @@ This project fulfills the specific requirements outlined in the assignment PDF.
 
  **Documentation:** Professional README with setup instructions.
 
+---
+
 ## 🚀 Deployment
 
 This project is optimized for deployment on Vercel.
@@ -112,6 +118,8 @@ Import the repository on Vercel.
 Vercel automatically detects the Vite build settings.
 
 Click Deploy.
+
+---
 
 ## 👨‍💻 Developer
 
