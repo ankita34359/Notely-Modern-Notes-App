@@ -56,7 +56,7 @@ Follow these commands to run the project on your local machine.
 1. **git clone**
 [https://github.com/ankita34359/notely-modern-notes-app.git](https://github.com/ankita34359/notely-modern-notes-app.git)
 
-cd notely-notes-app
+cd notely-modern-notes-app
 
 2. **Install dependencies**
 npm install
@@ -84,17 +84,17 @@ src/
 
 This project fulfills the specific requirements outlined in the assignment PDF.
 
- Notes UI: Sidebar for categories and Main section with Grid/List view.
+ **Notes UI:** Sidebar for categories and Main section with Grid/List view.
 
- CRUD Operations: Create, Read, Edit, and Delete functionalities implemented.
+ **CRUD Operations:** Create, Read, Edit, and Delete functionalities implemented.
 
- Conflict Handling: Visual indicator for duplicate titles within the same category.
+ **Conflict Handling:** Visual indicator for duplicate titles within the same category.
 
- Data Handling: Loads initial mock data, then persists changes to LocalStorage.
+ **Data Handling:** Loads initial mock data, then persists changes to LocalStorage.
 
- Deployment: Deployed live via Vercel/Netlify.
+ **Deployment:** Deployed live via Vercel/Netlify.
 
- Documentation: Professional README with setup instructions.
+ **Documentation:** Professional README with setup instructions.
 
 ## 🚀 Deployment
 
