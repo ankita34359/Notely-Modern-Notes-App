@@ -1,4 +1,4 @@
-# **Notely - Modern Notes Management App**
+# **Notely - Modern Notes Management App** 
 
 Notely is a high-fidelity, responsive notes application inspired by Evernote and Apple Notes. Built as an MVP assignment, it features a premium "Midnight Glass" aesthetic, local data persistence, and smart conflict detection.
 
