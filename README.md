@@ -2,8 +2,6 @@
 
 Notely is a high-fidelity, responsive notes application inspired by Evernote and Apple Notes. Built as an MVP assignment, it features a premium "Midnight Glass" aesthetic, local data persistence, and smart conflict detection.
 
-🔗 **Live Demo**: [INSERT_YOUR_VERCEL_LINK_HERE]
-
 ---
 
 ## ✨ **Key Features**
