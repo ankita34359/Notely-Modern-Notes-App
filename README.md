@@ -51,7 +51,67 @@ Follow these commands to run the project on your local machine.
 
 ---
 
-1. **Clone the repository**  
+1. **Clone the repository**
+   
 ```bash
 git clone [https://github.com/YOUR_USERNAME/notely-notes-app.git](https://github.com/YOUR_USERNAME/notely-notes-app.git)
 cd notely-notes-app
+
+2. **Install dependencies**
+npm install
+
+3. **Run the development server**
+npm run dev
+
+
+4. **Build for production**
+npm run build
+```
+
+## 📂 Folder Structure
+
+The project follows a scalable, component-based architecture.
+
+src/
+├── assets/            # Static images and global assets
+├── App.jsx            # Main application logic (State, Layout, Routing)
+├── main.jsx           # React entry point
+├── index.css          # Global styles, Tailwind directives, Scrollbar styling
+└── README.md          # Project documentation
+
+## 📝 Assignment Requirements Checklist
+
+This project fulfills the specific requirements outlined in the assignment PDF.
+
+ Notes UI: Sidebar for categories and Main section with Grid/List view.
+
+ CRUD Operations: Create, Read, Edit, and Delete functionalities implemented.
+
+ Conflict Handling: Visual indicator for duplicate titles within the same category.
+
+ Data Handling: Loads initial mock data, then persists changes to LocalStorage.
+
+ Deployment: Deployed live via Vercel/Netlify.
+
+ Documentation: Professional README with setup instructions.
+
+## 🚀 Deployment
+
+This project is optimized for deployment on Vercel.
+
+Push code to GitHub.
+
+Import the repository on Vercel.
+
+Vercel automatically detects the Vite build settings.
+
+Click Deploy.
+
+## 👨‍💻 Developer
+
+Developed by Ankita Gupta
+
+
+---
+
+This markdown contains all the necessary sections and formatting for your README. You can now easily copy and paste it into your project file!
