@@ -8,9 +8,9 @@ import { format } from 'date-fns';
 
 // --- MOCK DATA ---
 const INITIAL_DATA = [
-  { id: 1, title: "Product Strategy 2025", description: "Focus on user retention and AI integration features. Key metrics to watch: DAU and Session time.", category: "Work", createdAt: new Date().toISOString() },
-  { id: 2, title: "Grocery List", description: "Almond milk, Avocados, Sourdough bread, Coffee beans (Ethiopian Yirgacheffe).", category: "Personal", createdAt: new Date().toISOString() },
-  { id: 3, title: "App Idea: Plantify", description: "AR app that identifies plants and tells you how much water they need based on local weather.", category: "Ideas", createdAt: new Date().toISOString() },
+  { id: 1, title: "Placement Strategy 2026", description: "Solve DSA questions. Make projects and revise core subjects.", category: "Work", createdAt: new Date().toISOString() },
+  { id: 2, title: "Grocery List", description: "Almond milk, Detergent,Aatta bread, Coffee.", category: "Personal", createdAt: new Date().toISOString() },
+  { id: 3, title: "Project", description: "Build project like notely.", category: "Ideas", createdAt: new Date().toISOString() },
 ];
 
 const CATEGORIES = [
